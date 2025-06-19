@@ -33,5 +33,3 @@ Analysis & Reporting: Finally, I synthesised these findings into a comprehensive
 Results & Findings
 The audit uncovered several critical risks that required immediate attention, including a lack of data encryption for sensitive customer information, non-existent data backups, and insufficient access controls. These findings, along with a complete, prioritised action plan, are detailed in the full report.
 
-View the Full Audit Report
-I invite you to review the complete professional report to see my full analysis and recommendations.
